@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Web-Coding-Challenge/static/css/main.5a9d183e.chunk.css",
+    "main.js": "/React-Web-Coding-Challenge/static/js/main.c49ef75d.chunk.js",
+    "main.js.map": "/React-Web-Coding-Challenge/static/js/main.c49ef75d.chunk.js.map",
+    "runtime-main.js": "/React-Web-Coding-Challenge/static/js/runtime-main.a7443455.js",
+    "runtime-main.js.map": "/React-Web-Coding-Challenge/static/js/runtime-main.a7443455.js.map",
+    "static/js/2.01f20947.chunk.js": "/React-Web-Coding-Challenge/static/js/2.01f20947.chunk.js",
+    "static/js/2.01f20947.chunk.js.map": "/React-Web-Coding-Challenge/static/js/2.01f20947.chunk.js.map",
+    "index.html": "/React-Web-Coding-Challenge/index.html",
+    "static/css/main.5a9d183e.chunk.css.map": "/React-Web-Coding-Challenge/static/css/main.5a9d183e.chunk.css.map",
+    "static/js/2.01f20947.chunk.js.LICENSE.txt": "/React-Web-Coding-Challenge/static/js/2.01f20947.chunk.js.LICENSE.txt",
+    "static/media/Berliner_Polizei.svg.bde85cca.png": "/React-Web-Coding-Challenge/static/media/Berliner_Polizei.svg.bde85cca.png",
+    "static/media/loading.aac55c0e.gif": "/React-Web-Coding-Challenge/static/media/loading.aac55c0e.gif",
+    "static/media/no-img.89867b41.jpg": "/React-Web-Coding-Challenge/static/media/no-img.89867b41.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7443455.js",
+    "static/js/2.01f20947.chunk.js",
+    "static/css/main.5a9d183e.chunk.css",
+    "static/js/main.c49ef75d.chunk.js"
+  ]
+}
